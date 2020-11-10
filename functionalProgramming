@@ -3,4 +3,8 @@ based on some fundamental — a style of building the structure and elements of
 computer programs — that treats computation as the evaluation of mathematical functions and avoids 
 changing - state and mutable data.
 FP doesnt use a sequence of imperative statements which change the state of the program but it use a set of nested functions 
-which act as "black boxes" that we can fit into each other.
+which act as "black boxes" that we can fit into each other. in the lines below you will learn somes fundamental concepts 
+that will lead you to understand and apply FP for your next software project.
+1. Pures functions
+a pure function is an encapsulated instructions that may receive one or more arguments but gives alwayse the same output
+for each set of input values. That works like an application in the mathematical sense.
